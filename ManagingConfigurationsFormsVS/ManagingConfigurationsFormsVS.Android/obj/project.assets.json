@@ -745,11 +745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\ManagingConfigurationsFormsVS.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\ManagingConfigurationsFormsVS.Android.csproj",
       "projectName": "ManagingConfigurationsFormsVS.Android",
-      "projectPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\ManagingConfigurationsFormsVS.Android.csproj",
+      "projectPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\ManagingConfigurationsFormsVS.Android.csproj",
       "packagesPath": "C:\\Users\\jeom\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\obj\\",
+      "outputPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

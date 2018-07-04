@@ -663,11 +663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\ManagingConfigurationsFormsVS.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\ManagingConfigurationsFormsVS.iOS.csproj",
       "projectName": "ManagingConfigurationsFormsVS.iOS",
-      "projectPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\ManagingConfigurationsFormsVS.iOS.csproj",
+      "projectPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\ManagingConfigurationsFormsVS.iOS.csproj",
       "packagesPath": "C:\\Users\\jeom\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

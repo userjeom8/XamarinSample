@@ -6932,11 +6932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\ManagingConfigurationsFormsVS.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\ManagingConfigurationsFormsVS.UWP.csproj",
       "projectName": "ManagingConfigurationsFormsVS.UWP",
-      "projectPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\ManagingConfigurationsFormsVS.UWP.csproj",
+      "projectPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\ManagingConfigurationsFormsVS.UWP.csproj",
       "packagesPath": "C:\\Users\\jeom\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\jeom\\source\\repos\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\obj\\",
+      "outputPath": "C:\\Users\\jeom\\Desktop\\Repo\\XamarinSample\\ManagingConfigurationsFormsVS\\ManagingConfigurationsFormsVS.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
